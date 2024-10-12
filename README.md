@@ -21,3 +21,9 @@ To Run the project:
 7. Footer contains the logo.
 8. All the components are written in the components folder.
 9. Body Components are written in the components/body folder.
+
+# Configuration:
+1. The project is configured to run on port 5173.
+2. The project is configured to run on development mode.
+3. Mock Data is configured in the src/config/mockData.js file.
+4. Urls are configured in the src/config/urls.js file.
