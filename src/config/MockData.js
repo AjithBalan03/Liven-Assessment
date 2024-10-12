@@ -1,0 +1,28 @@
+export const mockRes = [
+    {
+        id:1,
+        buyPrice:"$30",
+        bonusPrice:"$10",
+        isAppExclusive:true,
+    },
+    {
+        id:2,
+        buyPrice:"$50",
+        bonusPrice:"$5",
+    },
+    {
+        id:3,
+        buyPrice:"$100",
+        bonusPrice:"$15",
+    },
+    {
+        id:4,
+        buyPrice:"$250",
+        bonusPrice:"$50",
+    },
+    {
+        id:5,
+        buyPrice:"$500",
+        bonusPrice:"$125",
+    }
+]
